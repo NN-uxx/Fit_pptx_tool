@@ -14,9 +14,9 @@ PIL
 python-pptx
 
 ## 使い方
-1・Fit_pptx.pyを起動します。
-2・画像ファイルをUIの白枠にドロップします。
-3・Fit_pptx.pyと同一フォルダにoutput.pptxが作成されます。
+1・Fit_pptx.pyを起動します。<br>
+2・画像ファイルをUIの白枠にドロップします。<br>
+3・Fit_pptx.pyと同一フォルダにoutput.pptxが作成されます。<br>
 
 ## インストール
 解凍するだけ。アンインストールはフォルダごと消してください
